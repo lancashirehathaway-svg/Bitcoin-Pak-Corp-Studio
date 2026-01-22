@@ -1,0 +1,9 @@
+{
+  "name": "ProStream Studio",
+  "description": "A high-performance, professional-grade streaming and podcasting studio featuring background blur, screen sharing, document presentation, and local recording capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
